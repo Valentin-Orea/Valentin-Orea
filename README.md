@@ -101,6 +101,12 @@ Acción planificada en Odoo que genera, timbra y publica facturas de manera masi
 ![Cron](https://img.shields.io/badge/Cron-4B0082?logo=linux&logoColor=white)
 ![Odoo Workflows](https://img.shields.io/badge/Odoo_Workflows-714B67?logo=odoo&logoColor=white)
 
+### Inteligencia Artificial
+![AI Tools](https://img.shields.io/badge/IA-000000?logo=openai&logoColor=white)
+![Automatización Inteligente](https://img.shields.io/badge/Automatización_Inteligente-2E8B57?logo=ai&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-4682B4?logo=python&logoColor=white)
+
+
 ---
 
 ## 📊 Actualmente trabajando en
@@ -227,6 +233,12 @@ Scheduled Odoo action that generates, stamps, and posts invoices in bulk — exc
 ### Automation
 ![Cron](https://img.shields.io/badge/Cron-4B0082?logo=linux&logoColor=white)
 ![Odoo Workflows](https://img.shields.io/badge/Odoo_Workflows-714B67?logo=odoo&logoColor=white)
+
+### Artificial Intelligence
+![AI Tools](https://img.shields.io/badge/AI_Tools-000000?logo=openai&logoColor=white)
+![Intelligent Automation](https://img.shields.io/badge/Intelligent_Automation-2E8B57?logo=ai&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-4682B4?logo=python&logoColor=white)
+
 
 ---
 
