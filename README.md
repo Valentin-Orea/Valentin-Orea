@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hola, soy Valentín Orea</h1>
-<h3 align="center">💻 Desarrollador Odoo | Integraciones API - ODOO | Automatización de procesos empresariales | Gerente de TI</h3>
+<h3 align="center">💻 Desarrollador Odoo | Integraciones API - ODOO | Automatización de procesos empresariales </h3>
 
 <p align="center">
   <strong>Odoo | Python | FastAPI | PostgreSQL | Odoo.sh | Shopify | TikTok | Amazon SP-API | Fortinet | Microsoft 365</strong>
